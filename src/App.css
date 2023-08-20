@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header input{
+  font-size: large;
+  border-radius: 5px;
+}
+.hook{
+  color: azure;
+  background-color: black;
+  margin-top: 0px;
+  font-size: 40px;
+  width: 100%;
+}
+.display {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.cards {
+  height: 100%;
+  padding: 0.5rem;
+  justify-content: center;
+}
+button {
+  font-size: large;
+  margin-left: 10px;
+  border-radius: 5px;
+}
